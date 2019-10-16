@@ -1,0 +1,41 @@
+{
+    "friends" :[
+        {
+           "name" : "ROlf"
+           "age" : "22"
+           "gender" : "male"
+           "email" : "Rolf@gmail.com"
+           "contact" : "36475869"
+            }
+        {
+           "name" : "Joew"
+           "age" : "24"
+           "gender" : "male"
+           "email" : "Jose@gmail.com"
+           "contact" : "596756"
+            }
+        {
+           "name" : "Tony"
+           "age" : "22"
+           "gender" : "male"
+           "email" : "Tony@gmail.com"
+           "contact" : "0899885454"
+            }
+        {
+           "name" : "Joe"
+           "age" : "30"
+           "gender" : "male"
+           "email" : "Joe@gmail.com"
+           "contact" : "2243545"
+            }
+        {
+           "name" : "Steve"
+           "age" : "41"
+           "gender" : "male"
+           "email" : "Steve@gmail.com"
+           "contact" : "5867646557"
+            }
+        ]
+
+ 
+}
